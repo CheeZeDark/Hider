@@ -31,7 +31,7 @@ namespace HiderGUI
         public void InstallHiddenDriver()
         {
             PnpInstall pnp_inst = new PnpInstall();
-            pnp_inst.InstallINF("Hidden.inf");
+            pnp_inst.InstallINF("C:\\Windows\\Hidden.inf");
         }
         public InstallDependencies()
         {
