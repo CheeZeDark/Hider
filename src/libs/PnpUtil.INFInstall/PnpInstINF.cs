@@ -16,7 +16,7 @@ namespace PnpUtil.INFInstall
             {
                 ProcessStartInfo inf = new ProcessStartInfo();
                 inf.FileName = "cmd.exe";
-                inf.Arguments = $"/c pnputil /add-driver {inf_name} -install";
+                inf.Arguments = $"/c pnputil /add-driver {inf_name} /install";
                 inf.UseShellExecute = false; // This is Library for HiderGUI :D
                 inf.Verb = "runas";
                 inf.WindowStyle = ProcessWindowStyle.Normal; //Normal ProcessWindowStyle for Showing Errors or Something Else :D
