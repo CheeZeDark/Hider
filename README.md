@@ -7,7 +7,7 @@ Hider is Program, what hiding files, directories and unhiding all of this... Enj
 
 ![GitHub forks](https://img.shields.io/github/forks/CheeZeDark/Hider?color=82B96C&label=Forks&logo=github&logoColor=CE46A6)
 
-PLEASE FORK THIS!!! BECAUSE THIS PROGRAM IS VERY USEFUL AGAINST VERIFICATION IN DISCORD!!!!!!
+PLEASE FORK THIS!!! BECAUSE THIS PROGRAM VERY USEFUL AGAINST VERIFICATION IN DISCORD!!!!!!
 
 Thank you for choosing this Program!!! Made By CheeZeDark!!!
 
