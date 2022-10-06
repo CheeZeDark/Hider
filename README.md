@@ -3,7 +3,7 @@ Hider is Program, what hiding files, directories and unhiding all of this... Enj
 
 ![GitHub](https://img.shields.io/github/license/CheeZeDark/Hider?color=red&label=LICENSE&logo=github&logoColor=red&style=for-the-badge)
 
-**This program Under License by MIT(Included Libs and Execution Program HiderGUI)**
+**This program Under License by MIT(Included Libs, Execution Program HiderGUI and DSD Console Edition)**
 
 ![GitHub forks](https://img.shields.io/github/forks/CheeZeDark/Hider?color=82B96C&label=Forks&logo=github&logoColor=CE46A6)
 
