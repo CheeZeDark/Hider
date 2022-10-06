@@ -1,0 +1,6 @@
+C:\Users\VirusTest\source\repos\PnpUtil.INFInstall\PnpUtil.INFInstall\bin\Debug\PnpUtil.INFInstall.dll
+C:\Users\VirusTest\source\repos\PnpUtil.INFInstall\PnpUtil.INFInstall\bin\Debug\PnpUtil.INFInstall.pdb
+C:\Users\VirusTest\source\repos\PnpUtil.INFInstall\PnpUtil.INFInstall\obj\Debug\PnpUtil.INFInstall.csproj.AssemblyReference.cache
+C:\Users\VirusTest\source\repos\PnpUtil.INFInstall\PnpUtil.INFInstall\obj\Debug\PnpUtil.INFInstall.csproj.CoreCompileInputs.cache
+C:\Users\VirusTest\source\repos\PnpUtil.INFInstall\PnpUtil.INFInstall\obj\Debug\PnpUtil.INFInstall.dll
+C:\Users\VirusTest\source\repos\PnpUtil.INFInstall\PnpUtil.INFInstall\obj\Debug\PnpUtil.INFInstall.pdb
